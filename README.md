@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @zumpro
 - 🧠 learning [nextjs][next], [typescript][typescript]  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💜 loving [react][react], [postgresql][postgresql]
+
+
+[next]: https://nextjs.org
+[react]: http://reactjs.org
+[typescript]: https://www.typescriptlang.org
+[postgresql]: https://www.postgresql.org/
+
 
 <!---
 zumpro/zumpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
